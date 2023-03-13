@@ -1,5 +1,9 @@
 @charset "utf-8";
 
-#id {
+#btnAdd {
   background-color: green;
+}
+
+#btnDel {
+  background-color: red;
 }
